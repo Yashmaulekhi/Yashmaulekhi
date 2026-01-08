@@ -1,9 +1,8 @@
-# Hi 👋, I'm Yash MAulekhi
+# Hi 👋, I'm Yash Maulekhi
 
 ![Profile views](https://komarev.com/ghpvc/?username=Yashmauleki&color=blue)
 
-![Coding Avatar](https://cdn.pixabay.com/photo/2017/03/01/20/42/avatar-2109103_1280.png)
-
+![Coding Avatar](https://avatars.githubusercontent.com/u/9919?s=200&v=4)
 ## About Me
 CS Student | Currently Learning: C  
 Interests: Open Source, Web Development
