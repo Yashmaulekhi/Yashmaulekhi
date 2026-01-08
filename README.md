@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yash
+# Hi 👋, I'm Yash MAulekhi
 
 ![Profile views](https://komarev.com/ghpvc/?username=Yashmauleki&color=blue)
 
@@ -9,7 +9,7 @@ CS Student | Currently Learning: C
 Interests: Open Source, Web Development
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yashmauleki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-maulekhi-4b5057361/)
 
 ## Languages and Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
