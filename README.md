@@ -4,8 +4,8 @@
 
 ![Coding Avatar](https://avatars.githubusercontent.com/u/9919?s=200&v=4)
 ## About Me
-CS Student | Currently Learning: C  
-Interests: Open Source, Web Development
+CS Student | Currently Learning: Javascript  
+Interests: Ai&ML,Backend
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-maulekhi-4b5057361/)
